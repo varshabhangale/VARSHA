@@ -18,7 +18,7 @@ class p1
 			}		
 else
 			{
-				System.out.println("Number is negative");
+				System.out.println("Number is n");
 			}
 		}
 }
